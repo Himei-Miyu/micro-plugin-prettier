@@ -16,7 +16,7 @@ First, add the following line to your Micro configuration file:
 ```json5
 {
   // ....,
-  "pluginrepos": ["https://raw.githubusercontent.com/gamemaker1/micro-plugin-prettier/main/repo.json"]
+  "pluginrepos": ["https://raw.githubusercontent.com/himei-miyu/micro-plugin-prettier/main/repo.json"]
 }
 ```
 
@@ -85,7 +85,7 @@ set prettier.autoformat off
 ## Issues and Contributing
 
 Found a bug? Don't like something? Want to see something added/changed? Open
-[an issue](https://github.com/gamemaker1/micro-plugin-prettier/issues/new)!
+[an issue](https://github.com/himei-miyu/micro-plugin-prettier/issues/new)!
 
 ## License
 
