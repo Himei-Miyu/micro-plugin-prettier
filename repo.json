@@ -2,7 +2,7 @@
   {
     "Name": "prettier",
     "Description": "Format your code using Prettier",
-    "Website": "https://github.com/gamemaker1/micro-plugin-prettier",
+    "Website": "https://github.com/himei-miyu/micro-plugin-prettier",
     "Tags": [
       "javascript",
       "node",
@@ -13,35 +13,35 @@
     "Versions": [
       {
         "Version": "0.1.0",
-        "Url": "https://github.com/gamemaker1/micro-plugin-prettier/releases/download/0.1.0/prettier.zip",
+        "Url": "https://github.com/himei-miyu/micro-plugin-prettier/releases/download/0.1.0/prettier.zip",
         "Require": {
           "micro": ">=1.0.3"
         }
       },
       {
         "Version": "0.1.1",
-        "Url": "https://github.com/gamemaker1/micro-plugin-prettier/releases/download/0.1.1/prettier.zip",
+        "Url": "https://github.com/himei-miyu/micro-plugin-prettier/releases/download/0.1.1/prettier.zip",
         "Require": {
           "micro": ">=1.0.3"
         }
       },
       {
         "Version": "0.1.2",
-        "Url": "https://github.com/gamemaker1/micro-plugin-prettier/releases/download/0.1.2/prettier.zip",
+        "Url": "https://github.com/himei-miyu/micro-plugin-prettier/releases/download/0.1.2/prettier.zip",
         "Require": {
           "micro": ">=1.0.3"
         }
       },
       {
         "Version": "0.1.3",
-        "Url": "https://github.com/gamemaker1/micro-plugin-prettier/releases/download/0.1.3/prettier.zip",
+        "Url": "https://github.com/himei-miyu/micro-plugin-prettier/releases/download/0.1.3/prettier.zip",
         "Require": {
           "micro": ">=1.0.3"
         }
       },
       {
         "Version": "2.0.0",
-        "Url": "https://github.com/gamemaker1/micro-plugin-prettier/releases/download/2.0.0/prettier.zip",
+        "Url": "https://github.com/himei-miyu/micro-plugin-prettier/releases/download/2.0.0/prettier.zip",
         "Require": {
           "micro": ">=1.0.3"
         }
