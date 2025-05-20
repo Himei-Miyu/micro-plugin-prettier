@@ -23,9 +23,7 @@ local prettierFileTypes = {
 	"html",
 	"json", "yaml",
 	"graphql",
-	"markdown",
-	"python",
-	"go"
+	"markdown"
 }
 -- The default configuration for prettier
 -- See https://prettier.io/docs/en/options.html
