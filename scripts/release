@@ -56,9 +56,9 @@ echo "[info] Updated version to $plugin_version"
 
 # Commit the changes
 git add .
-git commit -m "chore(release): $plugin_version"
+git commit -S -m "chore(release): $plugin_version"
 # Tag the commit
-git tag "$plugin_version"
+git tag -s "$plugin_version"
 
 echo "[info] Created and tagged commit"
 
