@@ -20,7 +20,7 @@ plugin_name="prettier"
 # The new version
 plugin_version="$1"
 # The GitHub repo
-github_repo="gamemaker1/micro-plugin-prettier"
+github_repo="himei-miyu/micro-plugin-prettier"
 # The GitHub remote
 github_remote="origin"
 # The GitHub branch
